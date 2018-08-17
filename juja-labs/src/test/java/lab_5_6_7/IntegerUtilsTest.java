@@ -18,4 +18,19 @@ public class IntegerUtilsTest {
         Assert.assertEquals(expected, IntegerUtils.rightShift(data));
     }
 
+
+    @Test
+    public void swapBits() {
+        byte data = 0b00100001;
+        byte expected = (byte)0b10100000;
+
+
+
+        Assert.assertEquals(expected, IntegerUtils.swapBits(data, 0, 7));
+
+        data = (byte) 0b10000000;
+        expected = 0b00001000;
+
+        Assert.assertEquals(expected, IntegerUtils.swapBits(data, 7, 3));
+    }
 }

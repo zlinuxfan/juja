@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3874598-5d20-4aad-96f1-c563a52889a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_3_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_3_0_M1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/juja-labs/src/main/java/lab_5/IntegerUtils.java" afterPath="$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_2/EggsBread.class" afterPath="$PROJECT_DIR$/juja-labs/target/classes/lab_2/EggsBread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_3/DayMonth.class" afterPath="$PROJECT_DIR$/juja-labs/target/classes/lab_3/DayMonth.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_2/EggsBreadTest.class" afterPath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_2/EggsBreadTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_3/DayMonthTest.class" afterPath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_3/DayMonthTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-core/juja-core.iml" afterPath="$PROJECT_DIR$/juja-core/juja-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/juja-labs.iml" afterPath="$PROJECT_DIR$/juja-labs/juja-labs.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/pom.xml" afterPath="$PROJECT_DIR$/juja-labs/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java" afterPath="$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java" afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/juja-labs/target/" />
@@ -28,14 +19,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="212497056">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="404" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="404" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="143">
       <file leaf-file-name="IntegerUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="233">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,8 +57,8 @@
       <file leaf-file-name="IntegerUtilsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="737">
+              <caret line="33" column="67" lean-forward="false" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +79,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/juja-labs/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="1080">
+              <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -100,11 +114,6 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -115,9 +124,10 @@
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_3/DayMonth.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_4/DayWeek.java" />
         <option value="$PROJECT_DIR$/juja-core/src/ua/com/juja/core/JujaAwesomeTest.java" />
-        <option value="$PROJECT_DIR$/juja-labs/pom.xml" />
         <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_5/IntegerUtilsTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_5/IntegerUtils.java" />
+        <option value="$PROJECT_DIR$/juja-labs/pom.xml" />
+        <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java" />
       </list>
     </option>
@@ -143,9 +153,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-9" />
@@ -357,9 +364,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntegerUtilsTest.rightShift">
+  <component name="RunManager" selected="JUnit.IntegerUtilsTest.swapBits">
     <configuration name="DayMonthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="lab_3.*" />
           <option name="ENABLED" value="true" />
@@ -372,7 +379,7 @@
       <option name="MAIN_CLASS_NAME" value="lab_3.DayMonthTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -384,7 +391,7 @@
       <patterns />
     </configuration>
     <configuration name="IntegerUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="lab_5_6_7.*" />
           <option name="ENABLED" value="true" />
@@ -397,7 +404,7 @@
       <option name="MAIN_CLASS_NAME" value="lab_5_6_7.IntegerUtilsTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -409,7 +416,7 @@
       <patterns />
     </configuration>
     <configuration name="IntegerUtilsTest.rightShift" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="lab_5_6_7.*" />
           <option name="ENABLED" value="true" />
@@ -422,7 +429,32 @@
       <option name="MAIN_CLASS_NAME" value="lab_5_6_7.IntegerUtilsTest" />
       <option name="METHOD_NAME" value="rightShift" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="IntegerUtilsTest.swapBits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lab_5_6_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="juja-labs" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lab_5_6_7" />
+      <option name="MAIN_CLASS_NAME" value="lab_5_6_7.IntegerUtilsTest" />
+      <option name="METHOD_NAME" value="swapBits" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -434,7 +466,7 @@
       <patterns />
     </configuration>
     <configuration name="JujaAwesomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="ua.com.juja.core.*" />
           <option name="ENABLED" value="true" />
@@ -447,7 +479,7 @@
       <option name="MAIN_CLASS_NAME" value="ua.com.juja.core.JujaAwesomeTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -471,6 +503,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -481,7 +516,7 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -491,6 +526,9 @@
       </option>
       <envs />
       <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -503,7 +541,7 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
@@ -518,19 +556,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest.rightShift" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.JujaAwesomeTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DayMonthTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest.rightShift" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.JujaAwesomeTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DayMonthTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest.swapBits" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest.rightShift" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DayMonthTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest.swapBits" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DayMonthTest" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.JujaAwesomeTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.IntegerUtilsTest.rightShift" />
       </list>
     </recent_temporary>
   </component>
@@ -555,7 +598,7 @@
       <workItem from="1533931514877" duration="1285000" />
       <workItem from="1534419751739" duration="2964000" />
       <workItem from="1534422732310" duration="1946000" />
-      <workItem from="1534428798360" duration="1382000" />
+      <workItem from="1534428798360" duration="8266000" />
     </task>
     <task id="LOCAL-00001" summary="new lab5.">
       <created>1534419904109</created>
@@ -564,46 +607,54 @@
       <option name="project" value="LOCAL" />
       <updated>1534419904109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new lab6.">
+      <created>1534430212631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534430212632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DayMonthTest - 2018.08.16 at 17h 22m 28s.xml">
-      <configuration name="DayMonthTest" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 14h 55m 20s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest - 2018.08.16 at 17h 22m 07s.xml">
-      <configuration name="IntegerUtilsTest" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 14h 58m 26s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 16m 42s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 01m 28s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 16m 53s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 02m 22s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 17m 16s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 05m 51s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 18m 01s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 07m 05s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 29m 01s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 08m 10s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 30m 24s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 08m 20s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 32m 09s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 10m 16s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerUtilsTest_rightShift - 2018.08.16 at 17h 32m 50s.xml">
-      <configuration name="IntegerUtilsTest.rightShift" configurationId="JUnit" />
+    <history-entry file="IntegerUtilsTest_swapBits - 2018.08.17 at 15h 12m 23s.xml">
+      <configuration name="IntegerUtilsTest.swapBits" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18969000" />
+    <option name="totallyTimeSpent" value="25853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-37" width="1920" height="1117" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -614,13 +665,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3264887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31416836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Jelastic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18643162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18643162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -645,7 +696,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new lab5." />
-    <option name="LAST_COMMIT_MESSAGE" value="new lab5." />
+    <MESSAGE value="new lab6." />
+    <option name="LAST_COMMIT_MESSAGE" value="new lab6." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -656,7 +708,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -698,7 +752,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -831,18 +887,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#546#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/juja-core/src/ua/com/juja/core/JujaAwesomeTest.java" />
-    <entry file="file://$PROJECT_DIR$/juja-labs/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_3/DayMonthTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -869,10 +920,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/juja-labs/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="737">
+          <caret line="33" column="67" lean-forward="false" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -881,9 +940,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="233">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
