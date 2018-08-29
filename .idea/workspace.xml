@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3874598-5d20-4aad-96f1-c563a52889a8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/juja-labs/src/main/java/lab_8/ArrayInverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java" afterDir="false" />
+    <list default="true" id="a3874598-5d20-4aad-96f1-c563a52889a8" name="Default" comment="new lab8.">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_5_6_7/IntegerUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/juja-labs/target/classes/lab_5_6_7/IntegerUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juja-labs/juja-labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/juja-labs/juja-labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juja-labs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/juja-labs/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/juja-labs/target/" />
@@ -78,52 +81,45 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="2" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="138" />
+          <entry key="java" value="500" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="138" />
+          <entry key="JAVA" value="500" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab_8/ArrayInverter.java">
+        <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="167" selection-start-line="167" selection-end-line="167" />
+            <state relative-caret-position="274">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -159,8 +155,10 @@
         <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_4/DayWeek.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java" />
-        <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_8/ArrayInverter.java" />
+        <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java" />
+        <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilter.java" />
+        <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilterTest.java" />
       </list>
     </option>
   </component>
@@ -276,6 +274,14 @@
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="lab_8" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="juja" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="juja-labs" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lab_9" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -361,7 +367,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535570540232" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535573076701" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -378,11 +384,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="lab_9" />
       <recent name="lab_8" />
       <recent name="lab_5" />
       <recent name="ua.com.juja.core" />
       <recent name="lab_3" />
-      <recent name="lab_2" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -414,9 +420,84 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayInverterTest">
+  <component name="RunManager" selected="JUnit.ArrayFilterTest.filterEven_3">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFilterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juja-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab_9" />
+      <option name="MAIN_CLASS_NAME" value="lab_9.ArrayFilterTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFilterTest.filterEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juja-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab_9" />
+      <option name="MAIN_CLASS_NAME" value="lab_9.ArrayFilterTest" />
+      <option name="METHOD_NAME" value="filterEven" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFilterTest.filterEven_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juja-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab_9" />
+      <option name="MAIN_CLASS_NAME" value="lab_9.ArrayFilterTest" />
+      <option name="METHOD_NAME" value="filterEven_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFilterTest.filterEven_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juja-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab_9" />
+      <option name="MAIN_CLASS_NAME" value="lab_9.ArrayFilterTest" />
+      <option name="METHOD_NAME" value="filterEven_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -432,81 +513,6 @@
       <option name="PACKAGE_NAME" value="lab_8" />
       <option name="MAIN_CLASS_NAME" value="lab_8.ArrayInverterTest" />
       <option name="METHOD_NAME" value="" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayInverterTest.invert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="juja-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lab_8" />
-      <option name="MAIN_CLASS_NAME" value="lab_8.ArrayInverterTest" />
-      <option name="METHOD_NAME" value="invert" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayInverterTest.invert_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="juja-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lab_8" />
-      <option name="MAIN_CLASS_NAME" value="lab_8.ArrayInverterTest" />
-      <option name="METHOD_NAME" value="invert_2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="juja-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_5_6_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lab_5_6_7" />
-      <option name="MAIN_CLASS_NAME" value="lab_5_6_7.IntegerUtilsTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerUtilsTest.swapBits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="juja-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_5_6_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lab_5_6_7" />
-      <option name="MAIN_CLASS_NAME" value="lab_5_6_7.IntegerUtilsTest" />
-      <option name="METHOD_NAME" value="swapBits" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
@@ -534,19 +540,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.IntegerUtilsTest.swapBits" />
-      <item itemvalue="JUnit.IntegerUtilsTest" />
-      <item itemvalue="JUnit.ArrayInverterTest.invert" />
-      <item itemvalue="JUnit.ArrayInverterTest.invert_2" />
       <item itemvalue="JUnit.ArrayInverterTest" />
+      <item itemvalue="JUnit.ArrayFilterTest.filterEven" />
+      <item itemvalue="JUnit.ArrayFilterTest.filterEven_2" />
+      <item itemvalue="JUnit.ArrayFilterTest" />
+      <item itemvalue="JUnit.ArrayFilterTest.filterEven_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayFilterTest.filterEven_3" />
+        <item itemvalue="JUnit.ArrayFilterTest" />
+        <item itemvalue="JUnit.ArrayFilterTest.filterEven_2" />
+        <item itemvalue="JUnit.ArrayFilterTest.filterEven" />
         <item itemvalue="JUnit.ArrayInverterTest" />
-        <item itemvalue="JUnit.ArrayInverterTest.invert_2" />
-        <item itemvalue="JUnit.ArrayInverterTest.invert" />
-        <item itemvalue="JUnit.IntegerUtilsTest" />
-        <item itemvalue="JUnit.IntegerUtilsTest.swapBits" />
       </list>
     </recent_temporary>
   </component>
@@ -573,7 +579,7 @@
       <workItem from="1534797861086" duration="1078000" />
       <workItem from="1534798959397" duration="659000" />
       <workItem from="1535567257499" duration="646000" />
-      <workItem from="1535569127271" duration="1396000" />
+      <workItem from="1535569127271" duration="3917000" />
     </task>
     <task id="LOCAL-00001" summary="new lab5.">
       <created>1534419904109</created>
@@ -589,43 +595,50 @@
       <option name="project" value="LOCAL" />
       <updated>1534430212632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new lab8.">
+      <created>1535570613930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535570613930</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 11m 53s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_2 - 2018.08.29 at 22h 35m 02s.xml">
+      <configuration name="ArrayFilterTest.filterEven_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 13m 24s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_2 - 2018.08.29 at 22h 35m 38s.xml">
+      <configuration name="ArrayFilterTest.filterEven_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 13m 28s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_2 - 2018.08.29 at 22h 35m 42s.xml">
+      <configuration name="ArrayFilterTest.filterEven_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 16m 25s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest - 2018.08.29 at 22h 36m 36s.xml">
+      <configuration name="ArrayFilterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 17m 10s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest - 2018.08.29 at 22h 37m 06s.xml">
+      <configuration name="ArrayFilterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 17m 31s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_3 - 2018.08.29 at 22h 41m 45s.xml">
+      <configuration name="ArrayFilterTest.filterEven_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 18m 05s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_3 - 2018.08.29 at 22h 52m 01s.xml">
+      <configuration name="ArrayFilterTest.filterEven_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert - 2018.08.29 at 22h 18m 12s.xml">
-      <configuration name="ArrayInverterTest.invert" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_3 - 2018.08.29 at 22h 52m 12s.xml">
+      <configuration name="ArrayFilterTest.filterEven_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert_2 - 2018.08.29 at 22h 20m 59s.xml">
-      <configuration name="ArrayInverterTest.invert_2" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest_filterEven_3 - 2018.08.29 at 22h 53m 32s.xml">
+      <configuration name="ArrayFilterTest.filterEven_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayInverterTest_invert_2 - 2018.08.29 at 22h 21m 37s.xml">
-      <configuration name="ArrayInverterTest.invert_2" configurationId="JUnit" />
+    <history-entry file="ArrayFilterTest - 2018.08.29 at 22h 53m 43s.xml">
+      <configuration name="ArrayFilterTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30463000" />
+    <option name="totallyTimeSpent" value="32984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="-25" width="1610" height="930" extended-state="6" />
@@ -640,8 +653,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31400967" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39975846" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31400967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -649,7 +662,7 @@
       <window_info anchor="bottom" id="Regex" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49786323" weight="0.3295688" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.3295688" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295688" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32850242" />
       <window_info anchor="bottom" id="Jelastic" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.3293124" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
@@ -673,7 +686,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new lab5." />
     <MESSAGE value="new lab6." />
-    <option name="LAST_COMMIT_MESSAGE" value="new lab6." />
+    <MESSAGE value="new lab8." />
+    <option name="LAST_COMMIT_MESSAGE" value="new lab8." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -759,13 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -777,6 +784,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_8/ArrayInverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab_9/ArrayFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
         </state>
       </provider>
     </entry>
