@@ -1,7 +1,5 @@
 package lab_5_6_7;
 
-import java.util.Arrays;
-import java.util.BitSet;
 
 public class IntegerUtils {
     public static int leftShift(int arg) {
