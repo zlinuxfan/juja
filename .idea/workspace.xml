@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -174,142 +174,7 @@
           <expand>
             <path>
               <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="juja" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="juja" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
               <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="lab16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="lab15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="lab16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -613,7 +478,7 @@
       <workItem from="1534428798360" duration="8266000" />
       <workItem from="1543312412579" duration="256000" />
       <workItem from="1543318061432" duration="4309000" />
-      <workItem from="1544190018990" duration="18820000" />
+      <workItem from="1544190018990" duration="19233000" />
     </task>
     <task id="LOCAL-00001" summary="new lab5.">
       <created>1534419904109</created>
@@ -650,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544526705164</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change git ignore.">
+      <created>1544526965840</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544526965840</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -686,7 +558,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49238000" />
+    <option name="totallyTimeSpent" value="49651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-37" width="1920" height="1117" extended-state="6" />
@@ -727,6 +599,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -736,7 +634,8 @@
     <MESSAGE value="new lab15." />
     <MESSAGE value="Minor fix." />
     <MESSAGE value="new lab 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="new lab 16" />
+    <MESSAGE value="change git ignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="change git ignore." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1148,7 +1047,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>

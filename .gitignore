@@ -1,4 +1,3 @@
 out/*
-juja-labs/target/*
-juja-labs/labs/target/*
+juja-labs/target
 .idea/*
