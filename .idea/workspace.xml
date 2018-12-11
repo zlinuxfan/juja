@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3874598-5d20-4aad-96f1-c563a52889a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/juja-labs/src/test/java/lab/lab16/InsertionSorterTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_2/EggsBread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_3/DayMonth.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_4/DayWeek.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/classes/lab_5_6_7/IntegerUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_2/EggsBreadTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_3/DayMonthTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/juja-labs/target/test-classes/lab_5_6_7/IntegerUtilsTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juja-labs/src/main/java/lab/lab16/InsertionSorter.java" afterPath="$PROJECT_DIR$/juja-labs/src/main/java/lab/lab16/InsertionSorter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/juja-labs/target/" />
@@ -39,21 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="241">
-      <file leaf-file-name="InsertionSorter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab/lab16/InsertionSorter.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertionSorterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab/lab16/InsertionSorterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -103,7 +97,6 @@
         <option value="$PROJECT_DIR$/juja-labs/pom.xml" />
         <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab_5_6_7/IntegerUtilsTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab_5_6_7/IntegerUtils.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab15/SelectionSorterTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab15/SelectionSorter.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab16/InsertionSorter.java" />
@@ -111,6 +104,7 @@
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab/lab_15/SelectionSorter.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/test/java/lab/lab16/InsertionSorterTest.java" />
         <option value="$PROJECT_DIR$/juja-labs/src/main/java/lab/lab16/InsertionSorter.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -311,6 +305,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
               <item name="lab16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juja-labs" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -614,7 +613,7 @@
       <workItem from="1534428798360" duration="8266000" />
       <workItem from="1543312412579" duration="256000" />
       <workItem from="1543318061432" duration="4309000" />
-      <workItem from="1544190018990" duration="18667000" />
+      <workItem from="1544190018990" duration="18820000" />
     </task>
     <task id="LOCAL-00001" summary="new lab5.">
       <created>1534419904109</created>
@@ -644,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544437593008</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new lab 16">
+      <created>1544526705164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544526705164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -680,7 +686,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49085000" />
+    <option name="totallyTimeSpent" value="49238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-37" width="1920" height="1117" extended-state="6" />
@@ -695,9 +701,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2402464" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295688" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Jelastic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -729,7 +735,8 @@
     <MESSAGE value="new lab6." />
     <MESSAGE value="new lab15." />
     <MESSAGE value="Minor fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor fix." />
+    <MESSAGE value="new lab 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="new lab 16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1054,13 +1061,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab/lab_5_6_7/IntegerUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1129,6 +1129,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab/lab16/InsertionSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/juja-labs/src/test/java/lab/lab16/InsertionSorterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1137,10 +1145,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juja-labs/src/main/java/lab/lab16/InsertionSorter.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="48">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
